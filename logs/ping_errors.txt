@@ -1,0 +1,2 @@
+Error Log for Failed Pings with date
+2023-04-24 10:50:46.384426 - Failed for ip address:200.200.200.200 with return code: 2
